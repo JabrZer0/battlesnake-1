@@ -1,0 +1,6 @@
+*.DS_Store
+*.pyc
+battlesnake
+.idea
+.vscode
+bs_env/
